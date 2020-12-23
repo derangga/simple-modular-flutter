@@ -8,3 +8,13 @@ Modularization in flutter apps represents a software design pattern that separat
 </p>
 
 <br></br>
+
+# Package
+- [Dio](https://pub.dev/packages/dio) for network services.
+- [Kiwi](https://pub.dev/packages/kiwi) for dependency injection
+- [BLoC](https://pub.dev/packages/flutter_bloc)
+
+# Result
+<p align="center">
+  <img src="screenshots/bloc.gif" height="600" />
+</p>
